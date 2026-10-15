@@ -1,0 +1,37 @@
+{
+  "name": "screenRIG Scoreboard",
+  "short_name": "Scoreboard",
+  "description": "Multi-sport scoreboard for screenRIG displays. Run the game from a phone or tablet; show it on any screen shape.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0f16",
+  "theme_color": "#2a3547",
+  "categories": [
+    "sports",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
